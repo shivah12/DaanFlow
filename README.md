@@ -6,8 +6,6 @@
 <ul>
 <li>Intuitive Interface: User-friendly design for a smooth and hassle-free donation experience.</li>
 
-<li>Secure Transactions: Built-in security measures to ensure the safety of your financial information.</li>
-
 <li>Responsive Design: Accessible on various devices, allowing users to contribute from anywhere, anytime.</li>
 
 <li>Cause Catalog: Browse through a diverse catalog of causes and choose the one that resonates with you.</li>
