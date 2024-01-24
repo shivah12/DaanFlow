@@ -25,9 +25,8 @@
 
 <h2>Getting Started:</h2>
 <p>Clone the repository.</p>
-```sh
-   git clone https://github.com/yourusername/daanflow.git
-```
+
+   <h3> git clone https://github.com/yourusername/daanflow.git </h3>
 
 
 
